@@ -19,6 +19,8 @@ h2 {
 p {
     font-family: 'Mukta', sans-serif;
     color:rgb(133, 118, 90);
+    padding-top:5px;
     padding-left:20px;
     padding-right:20px;
+    margin:0;
 }

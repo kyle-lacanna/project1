@@ -1,25 +1,25 @@
 h1 {
-    font-family: 'Gemunu Libre', sans-serif;
-    font-size: 50px;
-    color: rgb(190, 124, 0);
+    font-family: 'Mukta', sans-serif;
+    font-size: 55px;
+    color: rgb(133, 118, 90);
     margin:0;
-    margin-bottom: 20px;
 }
 
 h2 {
-    font-family: 'Gemunu Libre', sans-serif;
+    font-family: 'Mukta', sans-serif;
     font-size: 25px;
     color: white;
-    padding-top: 6px;
     margin:0;
 }
 
 input {
     width:250px;
-    height: 30px;
+    height: 20px;
     border-radius: 35px;
-    border: 2px solid rgb(180, 117, 0);
+    border: 2px solid rgb(133, 118, 90);
     text-align:center;
+    font-family: 'Mukta', sans-serif;
+    color: rgb(133, 118, 90);
     font-size: 20px;
     padding: 10px;
     margin: 10px;
@@ -35,7 +35,7 @@ input {
 }
 
 #button {
-    background-color: rgb(190, 124, 0);
+    background-color: rgb(133, 118, 90);
     height: 40px;
     width: 150px;
     border-radius: 50px;
