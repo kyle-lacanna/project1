@@ -2,10 +2,8 @@ body {
     margin: 0;
     display: flex;
     flex-direction: column;
-}
-
-.body {
-    margin-top: 55px;
+    background-color: rgb(255, 244, 223);
+    height: 100vh;
 }
 
 h3 {
@@ -25,6 +23,8 @@ a {
     width: 100vw;
     background-color: orange;
     position:fixed;
+    box-shadow: 0px 0px 3px 0px, 0 0 inset;
+    
 }
 
 .nav_button {
@@ -56,6 +56,12 @@ a {
 }
 
 #active {
-    background-color: rgb(255, 214, 139);
+    background-color: rgb(252, 218, 155);
     color:rgb(180, 117, 0);
+}
+
+.body {
+    margin-top: 55px;
+    
+    
 }
