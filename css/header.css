@@ -2,7 +2,7 @@ body {
     margin: 0;
     display: flex;
     flex-direction: column;
-    background-color: rgb(255, 251, 245);
+    background-color: rgb(236, 236, 236);
     height: 100%;
 }
 
@@ -89,7 +89,7 @@ a {
     margin: 30px;
     height:300px;
     width:250px;
-    background-color: rgb(255, 244, 223);
+    background-color: white;
     border:3px solid rgb(133, 118, 90);
     border-radius:10px;
 }
