@@ -1,0 +1,72 @@
+/*
+div {
+    position: relative;
+}
+*/
+
+h1 {
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+    font-size: 50px;
+    /*color:rgb(134, 115, 79);*/
+    color:white;
+    padding-top: 10px;
+    margin:0;
+}
+h2 {
+    text-decoration: underline;
+    font-family: 'Mukta', sans-serif;
+    font-size: 30px;
+    /*color:rgb(134, 115, 79);*/
+    color:rgb(133, 118, 90);
+    padding-top: 10px;
+    padding-left: 20px;
+    margin:0;
+}
+
+p {
+    font-family: 'Mukta', sans-serif;
+    color:rgb(133, 118, 90);
+    padding-left:20px;
+    padding-right:20px;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1000px;
+    width: 100vw;
+    height: 100%;
+    
+    /*background-color: rgb(255, 244, 223);*/
+}
+
+.cards {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    /*background-color:rgb(133, 118, 90);*/
+    border-radius: 5px;
+}
+.section {
+    border-bottom: 1px solid rgb(133, 118, 90);
+}
+
+.card {
+    margin: 30px;
+    height:300px;
+    width:250px;
+    background-color: rgb(255, 244, 223);
+    border:3px solid rgb(133, 118, 90);
+    border-radius:10px;
+}
+
+#name {
+    background-color: rgb(133, 118, 90);
+    height: 100px;
+    text-align: center;
+}
