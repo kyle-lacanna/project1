@@ -16,9 +16,26 @@ h2 {
     margin:0;
 }
 
+h4 {
+    font-family: 'Mukta', sans-serif;
+    color:white;
+    margin:0;
+}
+
 p {
     font-family: 'Mukta', sans-serif;
     color:rgb(133, 118, 90);
     padding-left:20px;
     padding-right:20px;
+}
+
+img {
+    border-radius:7px 7px 0px 0px;
+    margin:0;
+}
+
+.card_title {
+    background-color: rgb(133, 118, 90);
+    width: 250px;
+    height: 50px
 }

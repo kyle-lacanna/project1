@@ -86,12 +86,16 @@ a {
 }
 
 .card {
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
     margin: 30px;
     height:300px;
     width:250px;
     background-color: white;
     border:3px solid rgb(133, 118, 90);
     border-radius:10px;
+    text-align: center;
 }
 
 #name {
