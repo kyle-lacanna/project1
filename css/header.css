@@ -28,7 +28,7 @@ a {
 
 @media screen and (min-width: 330px) {
     .nav_bar {
-        height: 55px;
+        height: auto;
     }
 }
 
