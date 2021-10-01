@@ -100,6 +100,6 @@ a {
 
 #name {
     background-color: rgb(133, 118, 90);
-    height: 100px;
+    height: auto;
     text-align: center;
 }
