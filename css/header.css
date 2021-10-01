@@ -67,7 +67,6 @@ a {
 
 .body {
     margin-top: 55px;
-
     display: flex;
     flex-direction: column;
     justify-content: start;
@@ -87,7 +86,6 @@ a {
 }
 .section {
     border-top: 2px solid rgb(133, 118, 90);
-    /*border-bottom: 1px solid rgb(133, 118, 90);*/
 }
 
 .card {
